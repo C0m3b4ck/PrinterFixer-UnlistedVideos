@@ -39,7 +39,21 @@ Unlisted videos from the channel <a href=https://youtube.com/@PrinterFixer>@Prin
 <br> https://youtu.be/2hO8AulOroM
 <br> https://youtu.be/U_I2JypdOeE
 <br> https://youtu.be/LZnvKEcHh4Q
-<br> 
+<br> https://youtu.be/9Ri7C_l0L5k
+<br> https://youtu.be/GzLY0mFLnOA
+<br> https://youtu.be/E8sTPreunEk
+<br> https://youtu.be/HdPFjnuf7ew
+<br> https://youtu.be/5TQpocqInWo
 
 # BookwormVB maintenance
 <br> https://youtu.be/7HbYP87FegA
+
+# SentinelXP development 
+<br> https://youtu.be/ljntDHhHv2k
+<br> https://youtu.be/Cz2Sy-gRWKY
+
+# SquishyRat development
+<br> https://youtu.be/8UZlkeV3XYw
+<br> https://youtu.be/JSWdt4FFz4I
+<br> https://youtu.be/ikjOqZSXxPY
+<br> https://youtu.be/RDhvZPrY7g4
