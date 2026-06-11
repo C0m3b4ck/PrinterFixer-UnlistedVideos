@@ -47,13 +47,27 @@ Unlisted videos from the channel <a href=https://youtube.com/@PrinterFixer>@Prin
 
 # BookwormVB maintenance
 <br> https://youtu.be/7HbYP87FegA
+<br> https://youtu.be/OGXclGpei2k
+<br> https://youtu.be/i9mMihpF6uM
+<br> https://youtu.be/6yKP9b2-ZdQ
+<br> https://youtu.be/j2On6wIj0-M
+<br> https://youtu.be/IQvtAp9p2FI
+<br> https://youtu.be/gw-z9LirMWg
+<br> https://youtu.be/Ts5VLl4l7jQ
+<br> https://youtu.be/afG1upUfMD8
 
 # SentinelXP development 
 <br> https://youtu.be/ljntDHhHv2k
 <br> https://youtu.be/Cz2Sy-gRWKY
+<br> https://youtu.be/oTECaQ05Eno
+<br> https://youtu.be/2NYL3BHIv4U
 
 # SquishyRat development
 <br> https://youtu.be/8UZlkeV3XYw
 <br> https://youtu.be/JSWdt4FFz4I
 <br> https://youtu.be/ikjOqZSXxPY
 <br> https://youtu.be/RDhvZPrY7g4
+
+# Misc
+<br><b>AddictionCalculator in Visual Basic 6: </b> https://youtu.be/4hT-iOE3bsM
+
