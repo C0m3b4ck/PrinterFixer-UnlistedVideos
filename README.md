@@ -1,5 +1,5 @@
 # PrinterFixer-UnlistedVideos
-Unlisted videos from the channel @PrinterFixer on YouTube.
+Unlisted videos from the channel <a href=https://youtube.com/@PrinterFixer>@PrinterFixer</a> on YouTube.
 
 # BookwormPascal development
 <br> https://youtu.be/Ki6nyyNDsTY
@@ -24,4 +24,22 @@ Unlisted videos from the channel @PrinterFixer on YouTube.
 <br> https://youtu.be/Fc_9MkGom8k
 <br> https://youtu.be/0U-_esF5LIY
 <br> https://youtu.be/wgtJYRK-J78
+<br> https://youtu.be/OeNHb33DrMI
+<br> https://youtu.be/vJnf_nKV_pw
+<br> https://youtu.be/OBy7PQoFzhg
+<br> https://youtu.be/ZTJOxZu1Puo
+<br> https://youtu.be/7GurPgRIC0o
+<br> https://youtu.be/IAWulAxL59g
+<br> https://youtu.be/_Dqlk-32Pwo
+<br> https://youtu.be/piGFANSJo-E
+<br> https://youtu.be/aK4wLkrUQFM
+<br> https://youtu.be/hWPeo1uqJ-g
+<br> https://youtu.be/oMoTG6156HQ
+<br> https://youtu.be/4JwuhIIPx4s
+<br> https://youtu.be/2hO8AulOroM
+<br> https://youtu.be/U_I2JypdOeE
+<br> https://youtu.be/LZnvKEcHh4Q
 <br> 
+
+# BookwormVB maintenance
+<br> https://youtu.be/7HbYP87FegA
