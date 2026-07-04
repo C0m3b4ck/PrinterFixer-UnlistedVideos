@@ -2,6 +2,7 @@
 Unlisted videos from the channel <a href=https://youtube.com/@PrinterFixer>@PrinterFixer</a> on YouTube.
 
 # ShelfSeeker development
+<br> https://youtu.be/pwqkQQfY65o
 <br> https://youtu.be/Pp5SQhDaH5I
 <br> https://youtu.be/_lcsZvrtfPY
 <br> https://youtu.be/oon81V7TNP8
