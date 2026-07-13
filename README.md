@@ -2,8 +2,12 @@
 Unlisted videos from the channel <a href=https://youtube.com/@PrinterFixer>@PrinterFixer</a> on YouTube.
 
 # DocToSpeech development
+https://youtu.be/TX7uU1yzbCM
 https://youtu.be/UlR4uwUSfqk
 https://youtu.be/Be3Eyste1kg
+
+# MartSkinChanger development
+https://youtu.be/RQQpamnAXc4
 
 # ShelfSeeker development
 <br> https://youtu.be/pwqkQQfY65o
